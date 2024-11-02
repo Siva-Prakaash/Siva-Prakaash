@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Siva-Prakaash
+- 🧑🏼‍💻 I'm a fresher currently looking for a job
 - 👀 I’m interested in Designing, Developing, Database Management
-- 🌱 I’m currently learning Java & Figma
+- 🌱 My technical skills (Java Programming, Python Programming, MySql, Web Development & Designing using Figma)
 - 📫 How to reach me
 - 📧 E-mail: sivaprakaashcse@gmail.com
 - 📞 Ph-no: 7305757789
