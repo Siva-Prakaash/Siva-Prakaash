@@ -6,7 +6,7 @@
 - 📧 E-mail: sivaprakaashcse@gmail.com
 - 📞 Ph-no: 7305757789
 - 😄 Pronouns: He/Him
-- My Resume: Sivaprakaash_Resume.pdf
+- My Resume: https://bit.ly/3UxtxDn
 
 <!---
 Siva-Prakaash/Siva-Prakaash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
